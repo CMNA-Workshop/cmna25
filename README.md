@@ -1,4 +1,4 @@
-This is the repository for the website for CMNA'24.
+This is the repository for the website for CMNA'25.
 
 The site is built using Hugo and the "even" theme. The generated site is built into the 'docs' folder to ease deployment to GitHub Pages.
 
@@ -10,7 +10,7 @@ If you want to rebuild the site:
 * Preview your changes locally using $ hugo server on, e.g. localhost:1313 (Hugo will tell you which port to use)
 * If you're happy with the preview then generate your site (automatically into the docs folder) using `$ hugo`
 * Add & Commit to the repo the push your changes
-* Then visit the live deployment [here](https://cmna-workshop.github.io/cmna24/)
+* Then visit the live deployment [here](https://cmna-workshop.github.io/cmna25/)
 
 
 
