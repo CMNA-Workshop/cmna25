@@ -11,6 +11,7 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 1. [contact](/cmna24/organisation/) a member of the organising committee, or 
 2. explore our archives at the [CMNA.info](http://cmna.info) site or 
 3. survey a selection of papers from the CEUR archive of previous CMNA workshops:
+    * [Volume #3769 (CMNA'24)](https://ceur-ws.org/Vol-3769/),
     * [Volume #3614 (CMNA'23)](https://ceur-ws.org/Vol-3614/),
     * [Volume #3205 (CMNA'22)](https://ceur-ws.org/Vol-3205/),
     * [Volume #2937 (CMNA'21)](https://ceur-ws.org/Vol-2937/), 
@@ -22,7 +23,7 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 # Downloadable Calls for Papers (CFP)
 
 * Download a PDF version of the [first call for papers](/cmna24/assets/cfp/cfp1.pdf) 
-* Download a PDF version of the [second call for papers](/cmna24/assets/cfp/cfp2.pdf)
+<!--* Download a PDF version of the [second call for papers](/cmna24/assets/cfp/cfp2.pdf)
 * Download a PDF version of the [third call for papers](/cmna23/assets/cfp/cfp3.pdf)
 <!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 
