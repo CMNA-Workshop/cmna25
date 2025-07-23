@@ -253,10 +253,10 @@ This year we've coordinated with the [interdisciplinary monthly online speaker s
       
       <guid>http://localhost:1313/cmna25/sponsors/</guid>
       <description>We acknowledge the kind support of our sponsors:
-Our 2024 host organisation, the 10th International Conference on Computational Models of Argument, and CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. </description>
+CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. </description>
       <content:encoded><![CDATA[<p>We acknowledge the kind support of our sponsors:</p>
+<!--- Our 2024 host organisation, the [10th International Conference on Computational Models of Argument](https://comma2024.krportal.org/), and -->
 <ul>
-<li>Our 2024 host organisation, the <a href="https://comma2024.krportal.org/">10th International Conference on Computational Models of Argument</a>, and</li>
 <li><a href="https://ceur-ws.org">CEUR Workshop proceedings</a> who graciously host our published papers.</li>
 <li>The <a href="https://www.tib.eu/en/">TIB</a> who provide long-term archival hosting for CMNA proceedings.</li>
 </ul>
