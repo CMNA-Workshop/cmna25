@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
-<!--We'll publish a full timetable of events and links to papers CMNA'24 closer to the event.-->
+We'll publish a full timetable of events and links to papers CMNA'25 closer to the event.
 
 <!--
 * Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
@@ -21,7 +21,7 @@ comments: false
 
 
 <!-- Tuesday 17th September 2024 -->
-
+<!--
 |  Authors | Title  | Time  |
 |----------|---|---|
 | Workshop Organisers | **OPENING REMARKS** | 09:00-09:10 |
@@ -42,7 +42,7 @@ Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Hera
 | Yuanxi Fu (School of Information Sciences, University of Illinois Urbana-Champaign)*; Jodi Schneider (School of Information Sciences, University of Illinois Urbana-Champaign) | [An Argumentation interface to facilitate human-machine collaboration in scientific discovery: A preliminary exploration](/cmna24/assets/papers/fu.pdf) | 16:00-16:20 |
 | Giulia D'Agostino (Università della Svizzera italiana)*; Andrea Rocci (Università della Svizzera italiana) | [Argumentative patterns in the context of dialogical exchanges in the financial domain](/cmna24/assets/papers/dagostino.pdf) | 16:20-16:50 |
 | Workshop Organisers | **CLOSING REMARKS** | 16:50-17:00 |
-
+-->
 
 <!--
 # Session #1 (Thursday September 2nd, 15:00-17:30 BST)
