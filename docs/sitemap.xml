@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/cmna25/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/dates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/organisation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/programme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/sponsors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/submission/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cmna25/topics/</loc>
+  </url>
+</urlset>

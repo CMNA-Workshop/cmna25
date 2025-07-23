@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CMNA&#39;25</title>
+    <link>http://localhost:1313/cmna25/</link>
+    <description>Recent content on CMNA&#39;25</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/cmna25/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About CMNA</title>
+      <link>http://localhost:1313/cmna25/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/about/</guid>
+      <description>Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “natural” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting &amp;ldquo;extra-rational&amp;rdquo; characteristics of the audience, taking into account emotions and affective factors.</description>
+      <content:encoded><![CDATA[<p>Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “<em>natural</em>” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting &ldquo;extra-rational&rdquo; characteristics of the audience, taking into account emotions and affective factors.</p>
+<p>AI has witnessed a prodigious growth in uses of argumentation throughout many of its subdisciplines:</p>
+<ul>
+<li>agent system negotiation protocols that demonstrate higher levels of sophistication and robustness;</li>
+<li>argumentation-based models of evidential relations and legal processes that are more expressive;</li>
+<li>groupwork tools that use argument to structure interaction and debate;</li>
+<li>computer-based learning tools that exploit monological and dialogical argument structures in designing pedagogic environments;</li>
+<li>decision support systems that build upon argumentation theoretic models of deliberation to better integrate with human reasoning;</li>
+<li>and models of knowledge engineering structured around core concepts of argument to simplify knowledge elicitation and representation problems.</li>
+</ul>
+<p>Furthermore, benefits have not been unilateral for AI, as demonstrated by the increasing presence of AI scholars in classical argumentation theory events and journals, and AI implementations of argument finding application in both research and pedagogic practice within philosophy and argumentation theory.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Dates</title>
+      <link>http://localhost:1313/cmna25/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/dates/</guid>
+      <description> Updated Paper Submission Deadline (long &amp;amp; short papers): 15th July 2024 Regular Paper submission (long &amp;amp; short papers): 8th July 2024 Review Period: 9th July 2024 &amp;ndash; 1st August 2024 Notification to authors: 13th August 2024 Demo, poster, &amp;amp; late breaking results submission (2 page abstract): 13th August 2024 Demo, poster, &amp;amp; late breaking results Notification to authors: 20th August 2024 Final (Camera Ready) version of papers: 27th August 2024 Workshop: 17th September 2024 </description>
+      <content:encoded><![CDATA[<ul>
+<li>Updated Paper Submission Deadline (long &amp; short papers): <strong>15th July 2024</strong></li>
+<li>Regular Paper submission (long &amp; short papers): <strong>8th July 2024</strong></li>
+<li>Review Period:  <strong>9th July 2024 &ndash; 1st August 2024</strong></li>
+<li>Notification to authors: <strong>13th August 2024</strong></li>
+<li>Demo, poster, &amp; late breaking results submission (2 page abstract): <strong>13th August 2024</strong></li>
+<li>Demo, poster, &amp; late breaking results Notification to authors: <strong>20th August 2024</strong></li>
+<li>Final (Camera Ready) version of papers: <strong>27th August 2024</strong></li>
+<li>Workshop: <strong>17th September 2024</strong></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>News &amp; Updates</title>
+      <link>http://localhost:1313/cmna25/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/news/</guid>
+      <description> [2024.10.28] CEUR proceedings published. [2024.09.13] Workshop Programme published [2024.07.08] Third CFP with updated deadline released [2024.07.03] Second CFP released [2024.03.22] Link for submissions released [2024.03.22] First CFP released [2024.02.26] Final Workshop day confirmed. See the dates page for more info. [2024.02.13] All new CMNA&#39;24 Website published with an all new design. </description>
+      <content:encoded><![CDATA[<ul>
+<li>[2024.10.28] <a href="https://ceur-ws.org/Vol-3769/">CEUR proceedings</a> published.</li>
+<li>[2024.09.13] <a href="/cmna24/programme">Workshop Programme</a> published</li>
+<li>[2024.07.08] Third <a href="/cmna24/submission">CFP</a> with updated deadline released</li>
+<li>[2024.07.03] Second <a href="/cmna24/subsmission">CFP</a> released</li>
+<li>[2024.03.22] Link for <a href="/cmna24/subsmission">submissions</a> released</li>
+<li>[2024.03.22] First <a href="/cmna24/subsmission">CFP</a> released</li>
+<li>[2024.02.26] Final Workshop day confirmed. See the <a href="/cmna24/dates/">dates</a> page for more info.</li>
+<li>[2024.02.13] All new CMNA'24 Website published with an all new design.</li>
+</ul>
+<!--
+* [2024.01.09] [Proceedings](http://ceur-ws.org/Vol-3614/) published
+* [2023.12.01] Final [programme of events](/cmna23/programme) published with links to final papers.
+* [2023.11.28] Provisional [programme of events](/cmna23/programme) published.
+* [2023.11.27] [Call for Participation](/cmna23/assets/cfp/cfparticipation.pdf) released.
+* [2023.10.23] Fourth call for paper released.
+* [2023.09.01] New, third call for papers released.
+* [2023.06.01] CMNA at ICLP Cancelled. CMNA'23 *will* happen online later in the year so stay tuned.
+* [2023.05.12] Dates Updated & Extended. Get your papers submitted by 22nd May.
+
+
+
+* [2021.08.30] [Proceedings](http://ceur-ws.org/Vol-2937/) published
+* [2021.08.30] [Programme](/cmna21/programme/) published
+* [2021.07.26] Dates Updated
+* [2021.07.13] Second call for papers is available  (& [downloadable as a PDF](/cmna21/assets/cfp/cfp2.pdf)))
+* [2021.07.12] Paper submission date extension until 23rd July
+* [2021.06.23] Free registration now open through [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213)
+
+
+* [2022.09.09] CEUR Volume #3205 published to the [CEUR Workshop Proceedings Site](http://ceur-ws.org/Vol-3205/).
+* [2022.09.09] Final papers (long, short, abstract, posters) published to the [programme page](/cmna22/programme).
+* [2022.08.06] Final call for papers is available  (& [downloadable as a PDF](/cmna22/assets/cfp/cfp2.pdf)))
+* [2022.08.06] Dates Updated & Extended
+* [2022.01.14] First call for papers is available on this site (& [downloadable as a PDF](/cmna22/assets/cfp/cfp1.pdf)))
+-->
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://localhost:1313/cmna25/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/organisation/</guid>
+      <description>If you have any questions or queries then feel free to contact a member of the organising committee
+Organising Committee Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Jodi Schneider jschneider@pobox.com University of Illinois Urbana Champaign Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Programme Committee Subject to confirmation&amp;hellip;
+Francielle Alves VargasInstituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP) Elena CabrioUniversite Cote d&#39;Azur, CNRS, Inria, I3S, France Sylvie DoutreUniversity of Toulouse 1 - IRIT Reva FreedmanNorthern Illinois University Massimiliano GiacominUniversity of Brescia Stella HerasUniversitat Politecnica de Valencia Helmut HoracekSaarland University Mare KoitUniversity of Tartu Collin LynchNorth Carolina State University Elena MusiUniversity of Liverpool Rudi PalmieriUniversity of Liverpool Andrea PazienzaInnovation Lab, Exprivia S.</description>
+      <content:encoded><![CDATA[<p>If you have any questions or queries then feel free to contact a member of the organising committee</p>
+<h1 id="organising-committee">Organising Committee</h1>
+<dl>
+<dt><a href="https://cgi.csc.liv.ac.uk/~floriana/Home.html">Floriana Grasso</a></dt>
+<dd><a href="mailto:floriana@liverpool.ac.uk">floriana@liverpool.ac.uk</a></br>
+University of Liverpool</dd>
+<dt><a href="https://compsci.uncg.edu/faculty/green/">Nancy Green</a></dt>
+<dd><a href="mailto:nlgreen@uncg.edu">nlgreen@uncg.edu</a></br>
+University of North Carolina Greensboro</dd>
+<dt><a href="http://jodischneider.com/jodi.html">Jodi Schneider</a></dt>
+<dd><a href="mailto:jschneider@pobox.com">jschneider@pobox.com</a></br>
+University of Illinois Urbana Champaign</dd>
+<dt><a href="http://www.simonwells.org">Simon Wells</a></dt>
+<dd><a href="mailto:s.wells@napier.ac.uk">s.wells@napier.ac.uk</a></br>
+School of Computing, Edinburgh Napier University</dd>
+</dl>
+<h1 id="programme-committee">Programme Committee</h1>
+<p>Subject to confirmation&hellip;</p>
+<dl>
+<dt>Francielle Alves Vargas</dt><dd>Instituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP)</dd>
+<dt>Elena Cabrio</dt><dd>Universite Cote d'Azur, CNRS, Inria, I3S, France</dd>
+<dt>Sylvie Doutre</dt><dd>University of Toulouse 1 - IRIT</dd>
+<dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
+<dt>Massimiliano Giacomin</dt><dd>University of Brescia</dd>
+<dt>Stella Heras</dt><dd>Universitat Politecnica de Valencia</dd>
+<dt>Helmut Horacek</dt><dd>Saarland University</dd>
+<dt>Mare Koit</dt><dd>University of Tartu</dd>
+<dt>Collin Lynch</dt><dd>North Carolina State University</dd>
+<dt>Elena Musi</dt><dd>University of Liverpool</dd>
+<dt>Rudi Palmieri</dt><dd>University of Liverpool</dd>
+<dt>Andrea Pazienza</dt><dd>Innovation Lab, Exprivia S.p.A.</dd>
+<dt>Paul Piwek</dt><dd>The Open University</dd>
+<dt>Patrick Saint-Dizier</dt><dd>	IRIT-CNRS</dd>
+<dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
+<dt>Mark Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
+<dt>Marko Tkalcic</dt><dd>University of Primorska</dd>
+<dt>Serena Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis</dd>
+<dt>Tommy Yuan</dt><dd>University of York</dd>
+</dl>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>http://localhost:1313/cmna25/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/programme/</guid>
+      <description>Authors Title Time Workshop Organisers OPENING REMARKS 09:00-09:10 Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València) Detecting disinformation through computational argumentation techniques and large language models 09:10-09:30 Beauty Oluokun (Imperial College London); Guilherme Paulino-Passos (Imperial College London); Antonio Rago (Imperial College London)*; Francesca Toni (Imperial College London) Predicting Human Judgement in Online Debates with Argumentation 09:30-10:00 Joeri Peters (Utrecht University)*; Floris Bex (Utrecht University &amp;amp; Tilburg University); Henry Prakken (Utrecht University) Arguments Based on Domain Rules in Prediction Justifications 10:00-10:30 ALL BREAK/COFFEE/CHAT 10:30-11:00 Rudi Palmieri (University of Liverpool) From loci to critical questions: an AMT approach to argument evaluation.</description>
+      <content:encoded><![CDATA[<!--We'll publish a full timetable of events and links to papers CMNA'24 closer to the event.-->
+<!--
+* Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
+* CMNA 21 will use Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting.
+* [CMNA 2023 Proceedings CEUR-3614](http://ceur-ws.org/Vol-3614/) are now available published through CEUR Workshop Proceedings.
+-->
+<!--
+* Note that all times are in British Summer Time (GMT +1). You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+2021&iso=20210902T15&p1=136&ah=2&am=30) to double check the time in your own timezone for the sessions.
+* The closing seminar is part of the Ethics of Argumentation seminar series. We'll post a link to join that event to the eventbrite registered participants information in due time.
+-->
+<!-- Tuesday 17th September 2024 -->
+<table>
+<thead>
+<tr>
+<th>Authors</th>
+<th>Title</th>
+<th>Time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Workshop Organisers</td>
+<td><strong>OPENING REMARKS</strong></td>
+<td>09:00-09:10</td>
+</tr>
+<tr>
+<td>Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València)</td>
+<td><a href="/cmna24/assets/papers/gutierrez.pdf">Detecting disinformation through computational argumentation techniques and large language models</a></td>
+<td>09:10-09:30</td>
+</tr>
+<tr>
+<td>Beauty Oluokun (Imperial College London); Guilherme Paulino-Passos (Imperial College London); Antonio Rago (Imperial College London)*; Francesca Toni (Imperial College London)</td>
+<td><a href="/cmna24/assets/papers/oluokun.pdf">Predicting Human Judgement in Online Debates with Argumentation</a></td>
+<td>09:30-10:00</td>
+</tr>
+<tr>
+<td>Joeri Peters (Utrecht University)*; Floris Bex (Utrecht University &amp; Tilburg University); Henry Prakken (Utrecht University)</td>
+<td><a href="/cmna24/assets/papers/peters.pdf">Arguments Based on Domain Rules in Prediction Justifications</a></td>
+<td>10:00-10:30</td>
+</tr>
+<tr>
+<td>ALL</td>
+<td><strong>BREAK/COFFEE/CHAT</strong></td>
+<td>10:30-11:00</td>
+</tr>
+<tr>
+<td>Rudi Palmieri (University of Liverpool)</td>
+<td><a href="/cmna24/assets/papers/palmieri.pdf">From loci to critical questions: an AMT approach to argument evaluation. Insights from the domain of corporate controversies.</a></td>
+<td>11:00-11:30</td>
+</tr>
+<tr>
+<td>Fahad M Alzaidee (University of York)</td>
+<td><a href="/cmna24/assets/papers/alzaidee.pdf">Enhancing Essay Argument Persuasiveness Prediction Using a RoBERTa-LSTM Hybrid Model</a></td>
+<td>11:30-11:50</td>
+</tr>
+<tr>
+<td>Henry Prakken (Utrecht University</td>
+<td><a href="/cmna24/assets/papers/prakken.pdf">On Evaluating Legal-Reasoning Capabilities of Generative AI</a></td>
+<td>11:50-12:20</td>
+</tr>
+<tr>
+<td>ALL</td>
+<td>Slack time/Discussion</td>
+<td>12:20-12:40</td>
+</tr>
+<tr>
+<td>ALL</td>
+<td><strong>LUNCH BREAK</strong> (Lunch is included in the fees and will be provided in the Mensa building 4)</td>
+<td>12:40-13:50</td>
+</tr>
+<tr>
+<td>Elena Musi (University of Liverpool)*; Rudi Palmieri (University of Liverpool)</td>
+<td><a href="/cmna24/assets/papers/musi.pdf">The Fallacy of Explainable Generative AI: evidence from argumentative prompting in two domains</a>  </td>
+<td>13:50-14:10</td>
+</tr>
+<tr>
+<td>Katarzyna Budzynska (Warsaw University of Technology)*; Marcin Koszowy (Warsaw University of Technology);  Patrick Saint-Dizier (retired from CNRS); Maciej Bartosz Uberna (Politechnika Warszawska)</td>
+<td><a href="/cmna24/assets/papers/budzynska.pdf">Analysing Language of the Dynamics of Ethos and Emotions in Rephrased Arguments</a></td>
+<td>14:10-14:40</td>
+</tr>
+<tr>
+<td>Loris Isabettini (University of Windsor)</td>
+<td><a href="/cmna24/assets/papers/isabettini.pdf">Modelling Natural Argumentation in Education: Bridging Traditional Frameworks and Modern Multimodal Approaches</a></td>
+<td>14:40- 15:00</td>
+</tr>
+<tr>
+<td>Nancy L Green (University of North Carolina Greensboro)*; Derek McLachlin (U. Western Ontario); Robert Mercer (The University of Western Ontario)</td>
+<td><a href="/cmna24/assets/papers/green.pdf">Modeling Biochemistry Argument</a></td>
+<td>15:00-15:30</td>
+</tr>
+<tr>
+<td>ALL</td>
+<td><strong>BREAK/COFFEE/CHAT</strong></td>
+<td>15:30-16:00</td>
+</tr>
+<tr>
+<td>Yuanxi Fu (School of Information Sciences, University of Illinois Urbana-Champaign)*; Jodi Schneider (School of Information Sciences, University of Illinois Urbana-Champaign)</td>
+<td><a href="/cmna24/assets/papers/fu.pdf">An Argumentation interface to facilitate human-machine collaboration in scientific discovery: A preliminary exploration</a></td>
+<td>16:00-16:20</td>
+</tr>
+<tr>
+<td>Giulia D&rsquo;Agostino (Università della Svizzera italiana)*; Andrea Rocci (Università della Svizzera italiana)</td>
+<td><a href="/cmna24/assets/papers/dagostino.pdf">Argumentative patterns in the context of dialogical exchanges in the financial domain</a></td>
+<td>16:20-16:50</td>
+</tr>
+<tr>
+<td>Workshop Organisers</td>
+<td><strong>CLOSING REMARKS</strong></td>
+<td>16:50-17:00</td>
+</tr>
+</tbody>
+</table>
+<!--
+# Session #1 (Thursday September 2nd, 15:00-17:30 BST)
+
+|  Authors | Title  | Time  |
+|----------|---|---|
+| Workshop Organisers | **INTRODUCTORY REMARKS** | 15:00-15:10 GMT |
+| Nancy Green | [RST and Practical Reasoning](/cmna23/assets/papers/paper1.pdf) | 15:10-15:40  | 
+| Giulia D'agostino | [Let's explain what we argue for. The argumentative function of explanations in Earnings Conference Calls](/cmna23/assets/papers/paper2.pdf) | 15:40-16:00 |
+| Loris Isabettini | [The Interplay of Kisceral Argumentation, AudioSonic Resonance, Secular Mysticism, and Natural Argumentation in Computational Models](/cmna23/assets/papers/abstract1.pdf) | 16:00-16:15 |
+| ALL | **BREAK/COFFEE/CHAT** | 16:15-16:30 | 
+| Trevor Bench-Capon | [The Role of Intermediate Factors in Explaining Precedential Constraint](/cmna23/assets/papers/paper3.pdf) | 16:30-17:00 |
+| Daniel Konstantynowicz, Francis Wojciechowski and Procheta Sen | [Finding Important Arguments from a Legal Case](/cmna23/assets/papers/paper4.pdf) | 17:00-17:20 |
+| Nancy Green | [Deontological Argumentation Schemes](/cmna23/assets/papers/paper5.pdf) | 17:20-17:40 |
+| ALL | **BREAK/COFFEE/CHAT** | 17:40-17:45 | 
+| Simon Wells & Mark Snaith | [On The Role of Dialogue Models in the Age of Large Language Models](/cmna23/assets/papers/abstract2.pdf) | 17:45-18:00 |
+| PLENARY | **"LLMs, ML, & AI in Argumentation "** | 18:00-18:25 |
+| Workshop Organisers | **CLOSING REMARKS** | 18:50-17:00 |
+-->
+<!--Long & short papers have been published as archival proceedings on the [CEUR Workshop Proceedings website](http://ceur-ws.org/) in [volume #3205](http://ceur-ws.org/Vol-3205/).
+-->
+<!--
+# Invited Speaker (13:45-14:30 CET)
+
+**Title:** The Dynamics of Knowledge: Argumentation and Belief Revision
+
+**Speaker:** Guillermo R. Simari, Universidad Nacional del Sur
+
+**Abstract:** The exploration of the relationships between belief revision and computational argumentation has led to significant contributions for both areas; several techniques employed in belief revision are being studied to formalize the dynamics of argumentation frameworks and the capabilities of the argumentation-based defeasible reasoning are being used to define belief change operators. By briefly considering the fundamental ideas of both areas it is possible to examine some of the mutually beneficial cross-application in different proposals that model reasoning mechanisms that combine contributions from the two domains.
+-->
+<!--
+# Session #2 (Friday September 3rd 15:00-17:30 BST)
+
+
+|  Authors | Title  | Time  |
+|----------|---|---|
+| | **Introductory Remarks** | 15:00-15:15 |
+| Elena Musi, Rudi Palmieri, Chiara Mercuri, Alessandro Giudici, Neil Maiden, Charlotte Hardman and Rita Borgo  | [What makes you fupy (‘food’ + ‘happy’)? Leveraging strategic maneuvering to build food coaching apps](http://ceur-ws.org/Vol-2937/paper4.pdf) | 15:15-15:45 | 
+| Lars Malmqvist, Tommy Yuan and Peter Nightingale.  | [Improving Misinformation Detection in Tweets with Abstract Argumentation](http://ceur-ws.org/Vol-2937/paper5.pdf) | 15:45-16:15 | 
+| | **BREAK/COFFEE/CHAT** | 16:15-16:30 |
+| Jack Mumford, Katie Atkinson and Trevor Bench-Capon | [Machine Learning and Legal Argument](http://ceur-ws.org/Vol-2937/paper6.pdf) | 16:30-17:00 |
+| Nancy Green and Joshua Crotts | [A First Experiment Using ILP for Argument Mining](http://ceur-ws.org/Vol-2937/paper7.pdf) | 17:00-17:30 |
+| | **Closing Remarks** | 17:30-17:35 |
+| | **INFORMAL CHAT** | 17:35-18:00 |
+
+# Closing Seminar (18:00-19:00 BST)
+
+This year we've coordinated with the [interdisciplinary monthly online speaker series on the ethics of argumentation](https://argumentethics2021.wixsite.com/argumentationethics) for the closing seminar. We'll share the link to that seminar to all CMNA delegates and invite them to join that event immediately after the close of CMNA'21.
+
+**Title:** Sources of Opinion: The Community of Knowledge and How to Take Advantage of Outsourcing
+
+**Speaker:** [Steven A. Sloman](https://vivo.brown.edu/display/ssloman), [Brown University](https://www.brown.edu/)
+
+**Abstract:** People have some crazy opinions. Generally, these are the opinions that we disagree with. The standard view in both academia and the wider culture is that people have such opinions due to knowledge deficits; they are lacking information. On this view, providing information and critical reasoning skills is the best way to get opinions to converge, because they’ll converge to the truth. There is already strong reason to doubt this deficit model. I provide more in the form of evidence that knowledge is unrelated to attitudes about issues. In contrast, a person’s ideology influences both their attitudes and their sense of understanding. A competitor to the deficit model, the cultural cognition view, explains the effect of ideology on attitudes, but does not address the sense of understanding. I follow the cultural cognition view in proposing that people outsource much of their reasoning to their communities; I add that it is the resulting sense of understanding that mediates their attitudes. This community of knowledge suggests that people outsource most of their reasoning. I show how this fact can be deployed to bring evidence to bear on policy.
+
+-->
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://localhost:1313/cmna25/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/sponsors/</guid>
+      <description>We acknowledge the kind support of our sponsors:
+Our 2024 host organisation, the 10th International Conference on Computational Models of Argument, and CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. </description>
+      <content:encoded><![CDATA[<p>We acknowledge the kind support of our sponsors:</p>
+<ul>
+<li>Our 2024 host organisation, the <a href="https://comma2024.krportal.org/">10th International Conference on Computational Models of Argument</a>, and</li>
+<li><a href="https://ceur-ws.org">CEUR Workshop proceedings</a> who graciously host our published papers.</li>
+<li>The <a href="https://www.tib.eu/en/">TIB</a> who provide long-term archival hosting for CMNA proceedings.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>http://localhost:1313/cmna25/submission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/submission/</guid>
+      <description>Considering a submission to CMNA? We pride ourselves on operating CMNA as a &amp;ldquo;broad church&amp;rdquo; and aiming for inclusiveness so if you&amp;rsquo;re unsure of whether CMNA is a good fit for your work you can:
+contact a member of the organising committee, or explore our archives at the CMNA.info site or survey a selection of papers from the CEUR archive of previous CMNA workshops: Volume #3614 (CMNA&#39;23), Volume #3205 (CMNA&#39;22), Volume #2937 (CMNA&#39;21), Volume #2269 (CMNA&#39;20), Volume #2346 (CMNA&#39;19), Volume #2048 (CMNA&#39;17), Volume #1876 (CMNA&#39;16) Downloadable Calls for Papers (CFP) Download a PDF version of the first call for papers Download a PDF version of the second call for papers Download a PDF version of the third call for papers Workshop Submissions All submission types will be handled by the Conference Management Toolkit (CMT).</description>
+      <content:encoded><![CDATA[<h1 id="considering-a-submission-to-cmna">Considering a submission to CMNA?</h1>
+<p>We pride ourselves on operating CMNA as a &ldquo;broad church&rdquo; and aiming for inclusiveness so if you&rsquo;re unsure of whether CMNA is a good fit for your work you can:</p>
+<ol>
+<li><a href="/cmna24/organisation/">contact</a> a member of the organising committee, or</li>
+<li>explore our archives at the <a href="http://cmna.info">CMNA.info</a> site or</li>
+<li>survey a selection of papers from the CEUR archive of previous CMNA workshops:
+<ul>
+<li><a href="https://ceur-ws.org/Vol-3614/">Volume #3614 (CMNA'23)</a>,</li>
+<li><a href="https://ceur-ws.org/Vol-3205/">Volume #3205 (CMNA'22)</a>,</li>
+<li><a href="https://ceur-ws.org/Vol-2937/">Volume #2937 (CMNA'21)</a>,</li>
+<li><a href="https://ceur-ws.org/Vol-2669/">Volume #2269 (CMNA'20)</a>,</li>
+<li><a href="https://ceur-ws.org/Vol-2346/">Volume #2346 (CMNA'19)</a>,</li>
+<li><a href="https://ceur-ws.org/Vol-2048/">Volume #2048 (CMNA'17)</a>,</li>
+<li><a href="https://ceur-ws.org/Vol-1876/">Volume #1876 (CMNA'16)</a></li>
+</ul>
+</li>
+</ol>
+<h1 id="downloadable-calls-for-papers-cfp">Downloadable Calls for Papers (CFP)</h1>
+<ul>
+<li>Download a PDF version of the <a href="/cmna24/assets/cfp/cfp1.pdf">first call for papers</a></li>
+<li>Download a PDF version of the <a href="/cmna24/assets/cfp/cfp2.pdf">second call for papers</a></li>
+<li>Download a PDF version of the <a href="/cmna23/assets/cfp/cfp3.pdf">third call for papers</a></li>
+</ul>
+<!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
+<h1 id="workshop-submissions">Workshop Submissions</h1>
+<p>All submission types will be handled by the Conference Management Toolkit (CMT). Please submit your papers, demos, and posters via CMT using the following link:</p>
+<ul>
+<li><strong><a href="https://cmt3.research.microsoft.com/CMNA2024/">CMT submission link</a></strong></li>
+</ul>
+<h1 id="workshop-categories">Workshop Categories</h1>
+<p>The workshop encourages submissions spanning a number of categories:</p>
+<ul>
+<li>Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages).</li>
+<li>Short papers describing work in progress (up to 5 pages).</li>
+<li>Demos (2 page abstract describing the demo)</li>
+<li>Posters (2 page abstract explaining the concept behind the poster).</li>
+<li>Late breaking results (2 page abstract reporting the results).</li>
+</ul>
+<p>All accepted submissions will be archived locally on this site. Long &amp; short papers will also be archved through CEUR workshop proceedings. Demos &amp; posters will only be archived locally.</p>
+<p>It is highly recommended, but not mandatory, to format papers using the <a href="http://ceur-ws.org/Vol-XXX/">CEUR Single Column Style</a> (more details below in the style section).</p>
+<h1 id="contribution-style">Contribution Style</h1>
+<p>For final proceedings submission we&rsquo;ll use the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR styles</a> specifically the single column style from <a href="http://ceur-ws.org/Vol-XXX/">this page</a>. It is recommended that you prepare your submission for review using this style.</p>
+<p>If the following don&rsquo;t download automatically then please right click on the required link and select &ldquo;save link as&hellip;&rdquo; from the pop-up menu.</p>
+<ul>
+<li>For LaTeX users: Use the <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk">Overleaf CEUR LaTeX template</a> or download the <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">zip archive</a> for offline LaTeX compilation.</li>
+<li>For Open Document Format users: <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt">ODT Template</a></li>
+<li>For Word Users: <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx">DOCX Template</a></li>
+</ul>
+<h1 id="pre-proceedings-publication">Pre-Proceedings Publication</h1>
+<p>We&rsquo;ve gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 24 through <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> as has happened in previous years.</p>
+<h1 id="post-proceedings-publication">Post-Proceedings Publication</h1>
+<!--Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...-->
+<p>This year, in addition to our regular <a href="/cmna24/topics/">topics</a> we are organising CMNA with the special theme of &ldquo;<a href="/cmna24/topics/#special-theme">domains of natural argument</a>&rdquo;. Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument &amp; Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Topics</title>
+      <link>http://localhost:1313/cmna25/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cmna25/topics/</guid>
+      <description>Special Theme In 2024 we solicit contributions on the special theme of “domains of natural argument”.
+The special theme should be interpreted broadly, to reflect the wide range of argumentative practices in specialist domains such as law, medicine, natural sciences, economics, sociology, education, public policy, behaviour change, explainable AI, military intelligence, software engineering, implementation science, business and financial communication, etc.
+Additionally contributions within this theme might explore various questions:
+What features (e.</description>
+      <content:encoded><![CDATA[<h1 id="special-theme">Special Theme</h1>
+<p>In 2024 we solicit contributions on the special theme of “<strong>domains of natural argument</strong>”.</p>
+<p>The special theme should be interpreted broadly, to reflect the wide range of argumentative practices in specialist domains such as law, medicine, natural sciences, economics, sociology, education, public policy, behaviour change, explainable AI, military intelligence, software engineering, implementation science, business and financial communication, etc.</p>
+<p>Additionally contributions within this theme might explore various questions:</p>
+<ul>
+<li>What features (e.g., dialogue models, argumentation schemes, speech acts, rhetorical devices and/or linguistic cues) are particular to a given domain.</li>
+<li>How do they relate to features of other specialist domains or “everyday” argumentation?</li>
+<li>How can study of natural argument in a particular domain inform models of natural argument in other domains?</li>
+<li>How are classical models of natural argument and domain-specific models related to each other?</li>
+</ul>
+<p>Contributions to this theme will be invited to submit extended work to a special issue of the <a href="https://www.iospress.com/catalog/journals/argument-computation">Journal of Argument &amp; Computation</a>.</p>
+<h1 id="regular-topics">Regular Topics</h1>
+<p>The CMNA workshop series focuses on the general issue of modelling &ldquo;natural&rdquo; argumentation.</p>
+<!--However, to celebrate our co-location with COMMA, this year we have introduced a special theme on *explorations of the relationship between logic programming and computational models of natural argument*. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models. 
+
+Nothwithstanding the special theme, we also solicit contributions addressing, but not limited to, the following areas of interest: -->
+<p>Contributions are solicited addressing, but not limited to, the following areas of interest:</p>
+<ul>
+<li>The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal aspects).</li>
+<li>The linguistic characteristics of natural argumentation, including discourse markers, sentence format, referring expressions, and style.</li>
+<li>The generation of natural argument</li>
+<li>Corpus argumentation results and techniques</li>
+<li>Argumentation mining</li>
+<li>Models of natural legal argument</li>
+<li>Rhetoric and affect: the role of emotions, personalities, etc. in argumentation.</li>
+<li>The roles of licentiousness and deceit and the ethical implications of implemented systems demonstrating such features.</li>
+<li>Natural argumentation in multi-agent systems.</li>
+<li>Methods to better convey the structure of complex argument, including representation and summarisation.</li>
+<li>Natural argumentation and media: visual arguments, multi-modal arguments, spoken arguments.</li>
+<li>Evaluative arguments and their application in AI systems (such as decision-support and advice-giving).</li>
+<li>Non-monotonic, defeasible and uncertain argumentation.</li>
+<li>The computational use of models from informal logic and argumentation theory.</li>
+<li>Computer supported collaborative argumentation, for pedagogy, e-democracy and public debate.</li>
+<li>Tools for interacting with structures of argument.</li>
+<li>Applications of argumentation based systems.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
