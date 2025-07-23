@@ -4,14 +4,17 @@ subtitle:
 comments: false
 ---
 
-* [2024.10.28] [CEUR proceedings](https://ceur-ws.org/Vol-3769/) published.
+* [2025.07.23] All new CMNA'25 Website published with an all new design.
+
+<!--* [2024.10.28] [CEUR proceedings](https://ceur-ws.org/Vol-3769/) published.
 * [2024.09.13] [Workshop Programme](/cmna24/programme) published
 * [2024.07.08] Third [CFP](/cmna24/submission) with updated deadline released
 * [2024.07.03] Second [CFP](/cmna24/subsmission) released
 * [2024.03.22] Link for [submissions](/cmna24/subsmission) released
 * [2024.03.22] First [CFP](/cmna24/subsmission) released
 * [2024.02.26] Final Workshop day confirmed. See the [dates](/cmna24/dates/) page for more info.
-* [2024.02.13] All new CMNA'24 Website published with an all new design.
+* [2024.02.13] All new CMNA'24 Website published with an all new design.-->
+
 
 <!--
 * [2024.01.09] [Proceedings](http://ceur-ws.org/Vol-3614/) published

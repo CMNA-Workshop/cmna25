@@ -53,17 +53,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cmna25/news/</guid>
-      <description> [2024.10.28] CEUR proceedings published. [2024.09.13] Workshop Programme published [2024.07.08] Third CFP with updated deadline released [2024.07.03] Second CFP released [2024.03.22] Link for submissions released [2024.03.22] First CFP released [2024.02.26] Final Workshop day confirmed. See the dates page for more info. [2024.02.13] All new CMNA&#39;24 Website published with an all new design. </description>
+      <description> [2025.07.23] All new CMNA&#39;25 Website published with an all new design. </description>
       <content:encoded><![CDATA[<ul>
-<li>[2024.10.28] <a href="https://ceur-ws.org/Vol-3769/">CEUR proceedings</a> published.</li>
-<li>[2024.09.13] <a href="/cmna24/programme">Workshop Programme</a> published</li>
-<li>[2024.07.08] Third <a href="/cmna24/submission">CFP</a> with updated deadline released</li>
-<li>[2024.07.03] Second <a href="/cmna24/subsmission">CFP</a> released</li>
-<li>[2024.03.22] Link for <a href="/cmna24/subsmission">submissions</a> released</li>
-<li>[2024.03.22] First <a href="/cmna24/subsmission">CFP</a> released</li>
-<li>[2024.02.26] Final Workshop day confirmed. See the <a href="/cmna24/dates/">dates</a> page for more info.</li>
-<li>[2024.02.13] All new CMNA'24 Website published with an all new design.</li>
+<li>[2025.07.23] All new CMNA'25 Website published with an all new design.</li>
 </ul>
+<!--* [2024.10.28] [CEUR proceedings](https://ceur-ws.org/Vol-3769/) published.
+* [2024.09.13] [Workshop Programme](/cmna24/programme) published
+* [2024.07.08] Third [CFP](/cmna24/submission) with updated deadline released
+* [2024.07.03] Second [CFP](/cmna24/subsmission) released
+* [2024.03.22] Link for [submissions](/cmna24/subsmission) released
+* [2024.03.22] First [CFP](/cmna24/subsmission) released
+* [2024.02.26] Final Workshop day confirmed. See the [dates](/cmna24/dates/) page for more info.
+* [2024.02.13] All new CMNA'24 Website published with an all new design.-->
 <!--
 * [2024.01.09] [Proceedings](http://ceur-ws.org/Vol-3614/) published
 * [2023.12.01] Final [programme of events](/cmna23/programme) published with links to final papers.
@@ -100,11 +101,14 @@
       
       <guid>http://localhost:1313/cmna25/organisation/</guid>
       <description>If you have any questions or queries then feel free to contact a member of the organising committee
-Organising Committee Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Jodi Schneider jschneider@pobox.com University of Illinois Urbana Champaign Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Programme Committee Subject to confirmation&amp;hellip;
+Organising Committee Giulia d’Agostino giulia.dagostino@usi.ch (Università della Svizzera Italiana) Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Jodi Schneider jschneider@pobox.com University of Illinois Urbana Champaign Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Programme Committee Subject to confirmation&amp;hellip;
 Francielle Alves VargasInstituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP) Elena CabrioUniversite Cote d&#39;Azur, CNRS, Inria, I3S, France Sylvie DoutreUniversity of Toulouse 1 - IRIT Reva FreedmanNorthern Illinois University Massimiliano GiacominUniversity of Brescia Stella HerasUniversitat Politecnica de Valencia Helmut HoracekSaarland University Mare KoitUniversity of Tartu Collin LynchNorth Carolina State University Elena MusiUniversity of Liverpool Rudi PalmieriUniversity of Liverpool Andrea PazienzaInnovation Lab, Exprivia S.</description>
       <content:encoded><![CDATA[<p>If you have any questions or queries then feel free to contact a member of the organising committee</p>
 <h1 id="organising-committee">Organising Committee</h1>
 <dl>
+<dt><a href="">Giulia d’Agostino</a></dt>
+<dd><a href="mailto:giulia.dagostino@usi.ch">giulia.dagostino@usi.ch</a></br>
+(Università della Svizzera Italiana)</dd>
 <dt><a href="https://cgi.csc.liv.ac.uk/~floriana/Home.html">Floriana Grasso</a></dt>
 <dd><a href="mailto:floriana@liverpool.ac.uk">floriana@liverpool.ac.uk</a></br>
 University of Liverpool</dd>

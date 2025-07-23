@@ -9,6 +9,11 @@ If you have any questions or queries then feel free to contact a member of the o
 # Organising Committee
 
 <dl>
+
+<dt><a href="">Giulia d’Agostino</a></dt>
+<dd><a href="mailto:giulia.dagostino@usi.ch">giulia.dagostino@usi.ch</a></br>
+(Università della Svizzera Italiana)</dd>
+
 <dt><a href="https://cgi.csc.liv.ac.uk/~floriana/Home.html">Floriana Grasso</a></dt>
 <dd><a href="mailto:floriana@liverpool.ac.uk">floriana@liverpool.ac.uk</a></br>
 University of Liverpool</dd>
