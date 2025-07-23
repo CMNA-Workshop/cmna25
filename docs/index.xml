@@ -308,9 +308,10 @@ contact a member of the organising committee, or explore our archives at the CMN
 <li>Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages).</li>
 <li>Short papers describing work in progress (up to 5 pages).</li>
 <li>Demos (2 page abstract describing the demo)</li>
-<li>Posters (2 page abstract explaining the concept behind the poster).</li>
+<li>Position Statement(2 page abstract establishing a research position).</li>
 <li>Late breaking results (2 page abstract reporting the results).</li>
 </ul>
+<p>All submissions may also use as many additional pages as are necessary for references.</p>
 <p>All accepted submissions will be archived locally on this site. Long &amp; short papers will also be archved through CEUR workshop proceedings. Demos &amp; posters will only be archived locally.</p>
 <p>It is highly recommended, but not mandatory, to format papers using the <a href="http://ceur-ws.org/Vol-XXX/">CEUR Single Column Style</a> (more details below in the style section).</p>
 <h1 id="contribution-style">Contribution Style</h1>
@@ -323,9 +324,9 @@ contact a member of the organising committee, or explore our archives at the CMN
 </ul>
 <h1 id="pre-proceedings-publication">Pre-Proceedings Publication</h1>
 <p>We&rsquo;ve gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 24 through <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> as has happened in previous years.</p>
-<h1 id="post-proceedings-publication">Post-Proceedings Publication</h1>
+<!--# Post-Proceedings Publication-->
 <!--Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...-->
-<p>This year, in addition to our regular <a href="/cmna24/topics/">topics</a> we are organising CMNA with the special theme of &ldquo;<a href="/cmna24/topics/#special-theme">domains of natural argument</a>&rdquo;. Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument &amp; Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.</p>
+<!--This year, in addition to our regular [topics](/cmna24/topics/) we are organising CMNA with the special theme of "[domains of natural argument](/cmna24/topics/#special-theme)". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument & Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.-->
 ]]></content:encoded>
     </item>
     
@@ -335,34 +336,23 @@ contact a member of the organising committee, or explore our archives at the CMN
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cmna25/topics/</guid>
-      <description>Special Theme In 2024 we solicit contributions on the special theme of “domains of natural argument”.
-The special theme should be interpreted broadly, to reflect the wide range of argumentative practices in specialist domains such as law, medicine, natural sciences, economics, sociology, education, public policy, behaviour change, explainable AI, military intelligence, software engineering, implementation science, business and financial communication, etc.
-Additionally contributions within this theme might explore various questions:
-What features (e.</description>
+      <description>Special Theme To celebrate this landmark year, we solicit contributions on the special theme of:
+“Reflections &amp;amp; Horizons: The past 25 years of Computational Models of Natural Argument and visions of things to come”.
+This theme should be interpreted broadly, to reflect the wide range of argumentative practices and models that have been studied and shared at CMNA. We also encourage reflection on the development of argumentation theory within the remit of CMNA during the last 25 years.</description>
       <content:encoded><![CDATA[<h1 id="special-theme">Special Theme</h1>
-<p>In 2024 we solicit contributions on the special theme of “<strong>domains of natural argument</strong>”.</p>
-<p>The special theme should be interpreted broadly, to reflect the wide range of argumentative practices in specialist domains such as law, medicine, natural sciences, economics, sociology, education, public policy, behaviour change, explainable AI, military intelligence, software engineering, implementation science, business and financial communication, etc.</p>
-<p>Additionally contributions within this theme might explore various questions:</p>
-<ul>
-<li>What features (e.g., dialogue models, argumentation schemes, speech acts, rhetorical devices and/or linguistic cues) are particular to a given domain.</li>
-<li>How do they relate to features of other specialist domains or “everyday” argumentation?</li>
-<li>How can study of natural argument in a particular domain inform models of natural argument in other domains?</li>
-<li>How are classical models of natural argument and domain-specific models related to each other?</li>
-</ul>
-<p>Contributions to this theme will be invited to submit extended work to a special issue of the <a href="https://www.iospress.com/catalog/journals/argument-computation">Journal of Argument &amp; Computation</a>.</p>
+<p>To celebrate this landmark year, we solicit contributions on the special theme of:</p>
+<p><strong>“Reflections &amp; Horizons: The past 25 years of Computational Models of Natural Argument and visions of things to come”</strong>.</p>
+<p>This theme should be interpreted broadly, to reflect the wide range of argumentative practices and models that have been studied and shared at CMNA. We also encourage reflection on the development of argumentation theory within the remit of CMNA during the last 25 years. Finally we also encourage forward looking contributions that share a vision of how argumentation research might develop over the next quarter century.</p>
 <h1 id="regular-topics">Regular Topics</h1>
 <p>The CMNA workshop series focuses on the general issue of modelling &ldquo;natural&rdquo; argumentation.</p>
-<!--However, to celebrate our co-location with COMMA, this year we have introduced a special theme on *explorations of the relationship between logic programming and computational models of natural argument*. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models. 
-
-Nothwithstanding the special theme, we also solicit contributions addressing, but not limited to, the following areas of interest: -->
 <p>Contributions are solicited addressing, but not limited to, the following areas of interest:</p>
 <ul>
 <li>The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal aspects).</li>
 <li>The linguistic characteristics of natural argumentation, including discourse markers, sentence format, referring expressions, and style.</li>
-<li>The generation of natural argument</li>
-<li>Corpus argumentation results and techniques</li>
-<li>Argumentation mining</li>
-<li>Models of natural legal argument</li>
+<li>The generation of natural argument.</li>
+<li>Corpus argumentation results and techniques.</li>
+<li>Argumentation mining.</li>
+<li>Models of natural legal argument.</li>
 <li>Rhetoric and affect: the role of emotions, personalities, etc. in argumentation.</li>
 <li>The roles of licentiousness and deceit and the ethical implications of implemented systems demonstrating such features.</li>
 <li>Natural argumentation in multi-agent systems.</li>

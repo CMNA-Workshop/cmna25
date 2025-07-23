@@ -41,8 +41,10 @@ The workshop encourages submissions spanning a number of categories:
 * Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages).
 * Short papers describing work in progress (up to 5 pages).
 * Demos (2 page abstract describing the demo)
-* Posters (2 page abstract explaining the concept behind the poster).
+* Position Statement(2 page abstract establishing a research position).
 * Late breaking results (2 page abstract reporting the results).
+
+All submissions may also use as many additional pages as are necessary for references.
 
 All accepted submissions will be archived locally on this site. Long & short papers will also be archved through CEUR workshop proceedings. Demos & posters will only be archived locally.
 
@@ -63,7 +65,7 @@ If the following don't download automatically then please right click on the req
 
 We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 24 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years. 
 
-# Post-Proceedings Publication
+<!--# Post-Proceedings Publication-->
 
 <!--Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...-->
-This year, in addition to our regular [topics](/cmna24/topics/) we are organising CMNA with the special theme of "[domains of natural argument](/cmna24/topics/#special-theme)". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument & Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.
+<!--This year, in addition to our regular [topics](/cmna24/topics/) we are organising CMNA with the special theme of "[domains of natural argument](/cmna24/topics/#special-theme)". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument & Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.-->
