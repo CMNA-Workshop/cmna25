@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CMNA&#39;25</title>
-    <link>http://localhost:1313/cmna25/</link>
+    <link>https://cmna-workshop.github.io/cmna25/</link>
     <description>Recent content on CMNA&#39;25</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/cmna25/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://cmna-workshop.github.io/cmna25/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About CMNA</title>
-      <link>http://localhost:1313/cmna25/about/</link>
+      <link>https://cmna-workshop.github.io/cmna25/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/about/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/about/</guid>
       <description>Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “natural” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting &amp;ldquo;extra-rational&amp;rdquo; characteristics of the audience, taking into account emotions and affective factors.</description>
       <content:encoded><![CDATA[<p>Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “<em>natural</em>” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting &ldquo;extra-rational&rdquo; characteristics of the audience, taking into account emotions and affective factors.</p>
 <p>AI has witnessed a prodigious growth in uses of argumentation throughout many of its subdisciplines:</p>
@@ -29,10 +29,10 @@
     
     <item>
       <title>Dates</title>
-      <link>http://localhost:1313/cmna25/dates/</link>
+      <link>https://cmna-workshop.github.io/cmna25/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/dates/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/dates/</guid>
       <description> Regular Paper submission (long &amp;amp; short papers): 10th October 2025 Review Period: 10th October 2025 &amp;ndash; 31st October 2025 Notification to authors: 7th November 2025 Demo, position statement, &amp;amp; late breaking results submission (2 page abstract): 14th November 2025 Demo, position statement, &amp;amp; late breaking results Notification to authors: 28th November 2025 Final (Camera Ready) version of papers: 28th November 2025 Workshop: 12th December 2025 </description>
       <content:encoded><![CDATA[<!--* Updated Paper Submission Deadline (long & short papers): **15th July 2024**-->
 <ul>
@@ -49,10 +49,10 @@
     
     <item>
       <title>News &amp; Updates</title>
-      <link>http://localhost:1313/cmna25/news/</link>
+      <link>https://cmna-workshop.github.io/cmna25/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/news/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/news/</guid>
       <description> [2025.07.23] All new CMNA&#39;25 Website published with an all new design. </description>
       <content:encoded><![CDATA[<ul>
 <li>[2025.07.23] All new CMNA'25 Website published with an all new design.</li>
@@ -96,10 +96,10 @@
     
     <item>
       <title>Organisation</title>
-      <link>http://localhost:1313/cmna25/organisation/</link>
+      <link>https://cmna-workshop.github.io/cmna25/organisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/organisation/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/organisation/</guid>
       <description>If you have any questions or queries then feel free to contact a member of the organising committee
 Organising Committee Giulia d’Agostino giulia.dagostino@usi.ch (Università della Svizzera Italiana) Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Jodi Schneider jschneider@pobox.com University of Illinois Urbana Champaign Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Programme Committee Subject to confirmation&amp;hellip;
 Francielle Alves VargasInstituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP) Elena CabrioUniversite Cote d&#39;Azur, CNRS, Inria, I3S, France Sylvie DoutreUniversity of Toulouse 1 - IRIT Reva FreedmanNorthern Illinois University Massimiliano GiacominUniversity of Brescia Stella HerasUniversitat Politecnica de Valencia Helmut HoracekSaarland University Mare KoitUniversity of Tartu Collin LynchNorth Carolina State University Elena MusiUniversity of Liverpool Rudi PalmieriUniversity of Liverpool Andrea PazienzaInnovation Lab, Exprivia S.</description>
@@ -150,10 +150,10 @@ School of Computing, Edinburgh Napier University</dd>
     
     <item>
       <title>Programme</title>
-      <link>http://localhost:1313/cmna25/programme/</link>
+      <link>https://cmna-workshop.github.io/cmna25/programme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/programme/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/programme/</guid>
       <description>We&amp;rsquo;ll publish a full timetable of events and links to papers CMNA&#39;25 closer to the event.</description>
       <content:encoded><![CDATA[<p>We&rsquo;ll publish a full timetable of events and links to papers CMNA'25 closer to the event.</p>
 <!--
@@ -248,10 +248,10 @@ This year we've coordinated with the [interdisciplinary monthly online speaker s
     
     <item>
       <title>Sponsors</title>
-      <link>http://localhost:1313/cmna25/sponsors/</link>
+      <link>https://cmna-workshop.github.io/cmna25/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/sponsors/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/sponsors/</guid>
       <description>We acknowledge the kind support of our sponsors &amp;amp; supporters:
 CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. </description>
       <content:encoded><![CDATA[<p>We acknowledge the kind support of our sponsors &amp; supporters:</p>
@@ -266,10 +266,10 @@ CEUR Workshop proceedings who graciously host our published papers. The TIB who 
     
     <item>
       <title>Submission</title>
-      <link>http://localhost:1313/cmna25/submission/</link>
+      <link>https://cmna-workshop.github.io/cmna25/submission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/submission/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/submission/</guid>
       <description>Considering a submission to CMNA? We pride ourselves on operating CMNA as a &amp;ldquo;broad church&amp;rdquo; and aiming for inclusiveness so if you&amp;rsquo;re unsure of whether CMNA is a good fit for your work you can:
 contact a member of the organising committee, or explore our archives at the CMNA.info site or survey a selection of papers from the CEUR archive of previous CMNA workshops: Volume #3769 (CMNA&#39;24), Volume #3614 (CMNA&#39;23), Volume #3205 (CMNA&#39;22), Volume #2937 (CMNA&#39;21), Volume #2269 (CMNA&#39;20), Volume #2346 (CMNA&#39;19), Volume #2048 (CMNA&#39;17), Volume #1876 (CMNA&#39;16) Downloadable Calls for Papers (CFP) Download a PDF version of the first call for papers Workshop Submissions All submission types will be handled by the Conference Management Toolkit (CMT).</description>
       <content:encoded><![CDATA[<h1 id="considering-a-submission-to-cmna">Considering a submission to CMNA?</h1>
@@ -332,10 +332,10 @@ contact a member of the organising committee, or explore our archives at the CMN
     
     <item>
       <title>Topics</title>
-      <link>http://localhost:1313/cmna25/topics/</link>
+      <link>https://cmna-workshop.github.io/cmna25/topics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cmna25/topics/</guid>
+      <guid>https://cmna-workshop.github.io/cmna25/topics/</guid>
       <description>Special Theme To celebrate this landmark year, we solicit contributions on the special theme of:
 “Reflections &amp;amp; Horizons: The past 25 years of Computational Models of Natural Argument and visions of things to come”.
 This theme should be interpreted broadly, to reflect the wide range of argumentative practices and models that have been studied and shared at CMNA. We also encourage reflection on the development of argumentation theory within the remit of CMNA during the last 25 years.</description>
