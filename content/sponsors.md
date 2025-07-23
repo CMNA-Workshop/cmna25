@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
-We acknowledge the kind support of our sponsors: 
+We acknowledge the kind support of our sponsors & supporters: 
 
 <!--- Our 2024 host organisation, the [10th International Conference on Computational Models of Argument](https://comma2024.krportal.org/), and -->
 - [CEUR Workshop proceedings](https://ceur-ws.org) who graciously host our published papers.
