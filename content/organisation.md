@@ -10,7 +10,7 @@ If you have any questions or queries then feel free to contact a member of the o
 
 <dl>
 
-<dt><a href="">Giulia D’Agostino</a></dt>
+<dt><a href="https://search.usi.ch/en/people/6f8c65a29695bfc7a03b678e159fcf9f/dagostino-giulia">Giulia D’Agostino</a></dt>
 <dd><a href="mailto:giulia.dagostino@usi.ch">giulia.dagostino@usi.ch</a></br>
 (Università della Svizzera italiana)</dd>
 
