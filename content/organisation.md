@@ -28,7 +28,7 @@ Utrecht University</dd>
 
 <dt><a href="http://jodischneider.com/jodi.html">Jodi Schneider</a></dt>
 <dd><a href="mailto:jschneider@pobox.com">jschneider@pobox.com</a></br>
-University of Illinois Urbana Champaign</dd>
+University of Wisconsin–Madison</dd>
 
 <dt><a href="http://www.simonwells.org">Simon Wells</a></dt>
 <dd><a href="mailto:s.wells@napier.ac.uk">s.wells@napier.ac.uk</a></br>
