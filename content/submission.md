@@ -31,7 +31,7 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 
 All submission types will be handled by the Conference Management Toolkit (CMT). Please submit your papers, demos, and posters via CMT using the following link:
 
-* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2024/)**
+* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2025)**
 
 
 # Workshop Categories
