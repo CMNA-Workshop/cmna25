@@ -4,6 +4,10 @@ subtitle:
 comments: false
 ---
 
+* [2025.10.17] [Deadline Extended](/cmna25/dates) until 24th October
+* [2025.10.17] Third & Final [CFP](/cmna25/submission) released
+* [2025.10.12] Second [CFP](/cmna25/submission) released
+* [2025.09.11] First [CFP](/cmna25/submission) released
 * [2025.07.23] All new CMNA'25 Website published with an all new design.
 
 <!--* [2024.10.28] [CEUR proceedings](https://ceur-ws.org/Vol-3769/) published.
