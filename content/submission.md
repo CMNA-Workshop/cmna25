@@ -23,8 +23,8 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 # Downloadable Calls for Papers (CFP)
 
 * Download a PDF version of the [first call for papers](/cmna25/assets/cfp/cfp1.pdf) 
-<!--* Download a PDF version of the [second call for papers](/cmna24/assets/cfp/cfp2.pdf)
-* Download a PDF version of the [third call for papers](/cmna23/assets/cfp/cfp3.pdf)
+* Download a PDF version of the [second call for papers](/cmna25/assets/cfp/cfp2.pdf)
+* Download a PDF version of the [third & final call for papers](/cmna25/assets/cfp/cfp3_final.pdf)
 <!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 
 # Workshop Submissions
@@ -63,7 +63,7 @@ If the following don't download automatically then please right click on the req
 
 # Pre-Proceedings Publication
 
-We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 24 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years. 
+We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 25 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years. 
 
 <!--# Post-Proceedings Publication-->
 
