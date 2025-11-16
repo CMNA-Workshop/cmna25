@@ -4,6 +4,7 @@ subtitle:
 comments: false
 ---
 
+* [2025.11.16] Communicate [updated dates](/cmna25/dates) for reviewing schedule
 * [2025.10.17] [Deadline Extended](/cmna25/dates) until 24th October
 * [2025.10.17] Third & Final [CFP](/cmna25/submission) released
 * [2025.10.12] Second [CFP](/cmna25/submission) released
