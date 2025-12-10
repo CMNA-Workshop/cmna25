@@ -4,29 +4,47 @@ subtitle:
 comments: false
 ---
 
-We'll publish a full timetable of events and links to papers CMNA'25 closer to the event.
-
 <!--
-* Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
+We'll publish a full timetable of events and links to papers CMNA'25 closer to the event.
+-->
+
+
+* Self-register to attend CMNA'25 for free via this [Zoom Link](https://uwmadison.zoom.us/meeting/register/EiifF5NdTp2cL_kYajpXPw).
+<!--
 * CMNA 21 will use Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting.
 * [CMNA 2023 Proceedings CEUR-3614](http://ceur-ws.org/Vol-3614/) are now available published through CEUR Workshop Proceedings.
 -->
 
 
+* All times are in Greenwitch Mean Time (GMT). You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA%2725&iso=20251212T14&p1=304&ah=4&am=30) to double check the time in your own timezone for the sessions.
 <!--
-* Note that all times are in British Summer Time (GMT +1). You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+2021&iso=20210902T15&p1=136&ah=2&am=30) to double check the time in your own timezone for the sessions.
+
 * The closing seminar is part of the Ethics of Argumentation seminar series. We'll post a link to join that event to the eventbrite registered participants information in due time.
 -->
 
 
 
-<!-- Tuesday 17th September 2024 -->
-<!--
+Friday 12th December 2025
+
 |  Authors | Title  | Time  |
-|----------|---|---|
-| Workshop Organisers | **OPENING REMARKS** | 09:00-09:10 |
-Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València)| [Detecting disinformation through computational argumentation techniques and large language models](/cmna24/assets/papers/gutierrez.pdf) | 09:10-09:30 |
-| Beauty Oluokun (Imperial College London); Guilherme Paulino-Passos (Imperial College London); Antonio Rago (Imperial College London)*; Francesca Toni (Imperial College London) | [Predicting Human Judgement in Online Debates with Argumentation](/cmna24/assets/papers/oluokun.pdf) |09:30-10:00 |
+|----------|--------|-------|
+| Workshop Organisers | **OPENING REMARKS** | 14:00-14:10 |
+|    Simon Wells (Edinburgh Napier University)    Mark Snaith (Robert Gordon University) | [A Notation for Declaratively Describing Arguments](/cmna25/assets/papers/wells.pdf) | 14:10-14:40 |
+| Alison R. Panisson (UFSC); Guilherme Trajano (UFSC)| [Towards Neurosymbolic Argumentative Agents](/cmna25/assets/papers/panisson.pdf) | 14:40-15:10 |
+| Boris Galitsky | [Discourse based argumentation analysis for LLM verification](/cmna25/assets/papers/galitsky.pdf) | 15:10-15:25 |
+| ALL | **BREAK** | 15:25-15:35 |
+| Lucile Alys Favero Montero (Ellis Alicante)    Juan-Antonio Pérez-Ortiz (University of Alicante)    Tanja Käser (EPFL)    Nuria Oliver (Ellis Alicante) | [Leveraging Small LLMs for Argument Mining in Education: Argument Component Identification, Classification, and Assessment](/cmna25/assets/papers/favero.pdf) | 15:35-16:05 |
+| Fahad Alzaidee (University of York)*    Tommy Yuan (University of York)    Peter Nightingale (University of York) | [End-to-End Argument Mining in Student Essays: A Comparison of Pipeline and Multi-Task Generative Models](/cmna25/assets/papers/alzaidee.pdf) | 16:05-16:35 |
+| Nancy Green (UNCG)* | [Virtue Ethics Arguments](/cmna25/assets/papers/green.pdf) | 16:35-16:50 |
+| ALL | **BREAK** | 16:50-17:00 |
+|    Randy Harris (University of Waterloo)*    Zoya Randhawa (University of Waterloo)  | [Epanalepsis in argumentation: Pseudo tautologies](/cmna25/assets/papers/harris1.pdf) | 17:00-17:30 |
+|    Luis Edmundo Brena Pantoja (Johns Hopkins University)*    William Jurayj (Johns Hopkins University)     Gregory Deyesu (University of Maryland School of Law)    Zaid Al-Huneidi (University of Maryland School of Law)     Andrew Blair-Stanek (University of Maryland School of Law)     Benjamin Van Durme (Johns Hopkins University) | [Chain-of-Syllogisms: Unifying Analysis & Conclusions Boosts Argument Mining](/cmna25/assets/papers/brena.pdf) | 17:30-17:40 |
+| ALL | BREAK | 17:40-17:50 |
+| Randy Harris (University of Waterloo)* | [The Rhetoricon Database: An overview and an appreciation](/cmna25/assets/papers/harris2.pdf) | 17:50-18:20 |
+| Workshop Organisers | **CLOSING REMARKS** | 18:20-18:30 |
+
+
+<!--
 | Joeri Peters (Utrecht University)*; Floris Bex (Utrecht University & Tilburg University); Henry Prakken (Utrecht University) | [Arguments Based on Domain Rules in Prediction Justifications](/cmna24/assets/papers/peters.pdf) | 10:00-10:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 |
 | Rudi Palmieri (University of Liverpool) | [From loci to critical questions: an AMT approach to argument evaluation. Insights from the domain of corporate controversies.](/cmna24/assets/papers/palmieri.pdf) | 11:00-11:30 |
