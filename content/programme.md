@@ -31,7 +31,7 @@ Friday 12th December 2025
 | Workshop Organisers | **OPENING REMARKS** | 14:00-14:10 |
 |    Simon Wells (Edinburgh Napier University)    Mark Snaith (Robert Gordon University) | [A Notation for Declaratively Describing Arguments](/cmna25/assets/papers/wells.pdf) | 14:10-14:40 |
 | Alison R. Panisson (UFSC); Guilherme Trajano (UFSC)| [Towards Neurosymbolic Argumentative Agents](/cmna25/assets/papers/panisson.pdf) | 14:40-15:10 |
-| Boris Galitsky | [Discourse based argumentation analysis for LLM verification](/cmna25/assets/papers/galitsky.pdf) | 15:10-15:25 |
+| Boris Galitsky ( Knowledge Trail Inc.) | [Discourse based argumentation analysis for LLM verification](/cmna25/assets/papers/galitsky.pdf) | 15:10-15:25 |
 | ALL | **BREAK** | 15:25-15:35 |
 | Lucile Alys Favero Montero (Ellis Alicante)    Juan-Antonio Pérez-Ortiz (University of Alicante)    Tanja Käser (EPFL)    Nuria Oliver (Ellis Alicante) | [Leveraging Small LLMs for Argument Mining in Education: Argument Component Identification, Classification, and Assessment](/cmna25/assets/papers/favero.pdf) | 15:35-16:05 |
 | Fahad Alzaidee (University of York)*    Tommy Yuan (University of York)    Peter Nightingale (University of York) | [End-to-End Argument Mining in Student Essays: A Comparison of Pipeline and Multi-Task Generative Models](/cmna25/assets/papers/alzaidee.pdf) | 16:05-16:35 |
