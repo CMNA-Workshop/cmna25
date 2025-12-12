@@ -40,7 +40,7 @@ Friday 12th December 2025
 |    Randy Harris (University of Waterloo)*    Zoya Randhawa (University of Waterloo)  | [Epanalepsis in argumentation: Pseudo tautologies](/cmna25/assets/papers/harris1.pdf) | 17:00-17:30 |
 |    Luis Edmundo Brena Pantoja (Johns Hopkins University)*    William Jurayj (Johns Hopkins University)     Gregory Deyesu (University of Maryland School of Law)    Zaid Al-Huneidi (University of Maryland School of Law)     Andrew Blair-Stanek (University of Maryland School of Law)     Benjamin Van Durme (Johns Hopkins University) | [Chain-of-Syllogisms: Unifying Analysis & Conclusions Boosts Argument Mining](/cmna25/assets/papers/brena.pdf) | 17:30-17:40 |
 | ALL | BREAK | 17:40-17:50 |
-| Randy Harris (University of Waterloo)* | [The Rhetoricon Database: An overview and an appreciation](/cmna25/assets/papers/harris2.pdf) | 17:50-18:20 |
+| Randy Harris (University of Waterloo)* Chrysanne Di Marco  (University of Waterloo)| [The Rhetoricon Database: An overview and an appreciation](/cmna25/assets/papers/harris2.pdf) | 17:50-18:20 |
 | Workshop Organisers | **CLOSING REMARKS** | 18:20-18:30 |
 
 
