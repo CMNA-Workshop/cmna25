@@ -38,27 +38,24 @@ School of Computing, Edinburgh Napier University</dd>
 # Programme Committee
 <dl>
 
-<dt>Francielle Alves Vargas</dt><dd>Instituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP)</dd>
-<dt>Elena Cabrio</dt><dd>Universite Cote d'Azur, CNRS, Inria, I3S, France</dd>
 <dt>Oana Cocarascu</dt><dd>King's College London</dd>
-<dt>Sylvie Doutre</dt><dd>University of Toulouse 1 - IRIT</dd>
-<dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
 <dt>Yuanxi Fu</dt><dd>School of Information Sciences, University of Illinois Urbana-Champaign</dd>
-<dt>Massimiliano Giacomin</dt><dd>University of Brescia</dd>
+
 <dt>Stella Heras</dt><dd>Universitat Politecnica de Valencia</dd>
 <dt>Helmut Horacek</dt><dd>Saarland University</dd>
+
 <dt>Mare Koit</dt><dd>University of Tartu</dd>
-<dt>Collin Lynch</dt><dd>North Carolina State University</dd>
+
 <dt>Elena Musi</dt><dd>University of Liverpool</dd>
 <dt>Rudi Palmieri</dt><dd>University of Liverpool</dd>
 <dt>Andrea Pazienza</dt><dd>Innovation Lab, Exprivia S.p.A.</dd>
 <dt>Paul Piwek</dt><dd>The Open University</dd>
 <dt>Ramon Ruiz-Dolz</dt><dd>Centre for Argument Technology, University of Dundee</dd>
+
 <dt>Patrick Saint-Dizier</dt><dd>	IRIT-CNRS</dd>
 <dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
 <dt>Mark Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
-<dt>Marko Tkalcic</dt><dd>University of Primorska</dd>
-<dt>Serena Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis</dd>
+
 <dt>Tommy Yuan</dt><dd>University of York</dd>
 
 </dl>
