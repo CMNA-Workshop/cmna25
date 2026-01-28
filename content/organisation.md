@@ -43,6 +43,7 @@ School of Computing, Edinburgh Napier University</dd>
 <dt>Oana Cocarascu</dt><dd>King's College London</dd>
 <dt>Sylvie Doutre</dt><dd>University of Toulouse 1 - IRIT</dd>
 <dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
+<dt>Yuanxi Fu</dt><dd>School of Information Sciences, University of Illinois Urbana-Champaign</dd>
 <dt>Massimiliano Giacomin</dt><dd>University of Brescia</dd>
 <dt>Stella Heras</dt><dd>Universitat Politecnica de Valencia</dd>
 <dt>Helmut Horacek</dt><dd>Saarland University</dd>
