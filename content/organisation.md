@@ -52,6 +52,7 @@ Subject to confirmation...
 <dt>Rudi Palmieri</dt><dd>University of Liverpool</dd>
 <dt>Andrea Pazienza</dt><dd>Innovation Lab, Exprivia S.p.A.</dd>
 <dt>Paul Piwek</dt><dd>The Open University</dd>
+<dt>Ramon Ruiz-Dolz</dt><dd>Centre for Argument Technology, University of Dundee</dd>
 <dt>Patrick Saint-Dizier</dt><dd>	IRIT-CNRS</dd>
 <dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
 <dt>Mark Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
