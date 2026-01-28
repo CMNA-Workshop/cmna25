@@ -40,6 +40,7 @@ School of Computing, Edinburgh Napier University</dd>
 
 <dt>Francielle Alves Vargas</dt><dd>Instituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP)</dd>
 <dt>Elena Cabrio</dt><dd>Universite Cote d'Azur, CNRS, Inria, I3S, France</dd>
+<dt>Oana Cocarascu</dt><dd>King's College London</dd>
 <dt>Sylvie Doutre</dt><dd>University of Toulouse 1 - IRIT</dd>
 <dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
 <dt>Massimiliano Giacomin</dt><dd>University of Brescia</dd>
