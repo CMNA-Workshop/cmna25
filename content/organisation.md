@@ -36,7 +36,6 @@ School of Computing, Edinburgh Napier University</dd>
 </dl>
 
 # Programme Committee
-Subject to confirmation...
 <dl>
 
 <dt>Francielle Alves Vargas</dt><dd>Instituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP)</dd>
