@@ -40,20 +40,20 @@ School of Computing, Edinburgh Napier University</dd>
 
 <dt>Oana Cocarascu</dt><dd>King's College London</dd>
 <dt>Yuanxi Fu</dt><dd>School of Information Sciences, University of Illinois Urbana-Champaign</dd>
-<dt></dt><dd></dd>
-<dt></dt><dd></dd>
-<dt></dt><dd></dd>
-<dt></dt><dd></dd>
+<dt>Boris Galitsky</dt><dd>Moscow Institute of Physics and Technology</dd>
+<dt>Floriana Grasso</dt><dd>University of Liverpool</dd>
+<dt>Randy Harris</dt><dd>University of Waterloo</dd>
+<dt>Zheng Heng</dt><dd>University of Kentucky</dd>
 <dt>Stella Heras</dt><dd>Universitat Politecnica de Valencia</dd>
 <dt>Helmut Horacek</dt><dd>Saarland University</dd>
-<dt></dt><dd></dd>
-<dt></dt><dd></dd>
+<dt>Loris Isabettini</dt><dd>University of Windsor</dd>
+<dt>Antonis Kakas</dt><dd>University of Cyprus</dd>
 <dt>Mare Koit</dt><dd>University of Tartu</dd>
 <dt>Elena Musi</dt><dd>University of Liverpool</dd>
 <dt>Rudi Palmieri</dt><dd>University of Liverpool</dd>
 <dt>Andrea Pazienza</dt><dd>Innovation Lab, Exprivia S.p.A.</dd>
 <dt>Paul Piwek</dt><dd>The Open University</dd>
-<dt></dt><dd></dd>
+<dt>Antonio	Rago</dt><dd>Imperial College London</dd>
 <dt>Ramon Ruiz-Dolz</dt><dd>Centre for Argument Technology, University of Dundee</dd>
 <dt>Patrick Saint-Dizier</dt><dd>	IRIT-CNRS</dd>
 <dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
